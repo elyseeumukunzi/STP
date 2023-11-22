@@ -177,7 +177,7 @@ $barcode = '
 		
 		<tr>
 			<td colspan=2 style="text-align:center;">
-				<span style="text-align:center;background:#333;border-radius:40px;color:#eee;font-weight:400;padding:5px 50px">Powered by <img src="images/petilogo.png" style="width:5%;height:auto;"/> , a product of Ikorere Group Ltd. ©2022-'.date('Y').', All Rights Reserved.</span>
+				<span style="text-align:center;background:#333;border-radius:40px;color:#eee;font-weight:400;padding:5px 50px">Powered by  <font>MEDICAL FILE</font> , a product of Innovate Solutions Ltd. ©2022-'.date('Y').', All Rights Reserved.</span>
 			</td>
 		</tr>
 	  

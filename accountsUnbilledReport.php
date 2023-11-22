@@ -254,9 +254,9 @@ if($connected==true AND isset($_SESSION['id']))
                         <td style="text-align:left;width:80%">
                             <span style="border-top:none;border-bottom:2px solid #ccc; font-size:110%; font-weight:900"></span> 
                             <span style="font-size:90%;">
-                                Phone: (+250) 788404430<br/>
-                                E-mail: clinicumurage@gmail.com<br/>
-                                Muhanga - Nyamabuye - Gahogo
+                                Phone: (+250) 783588794<br/>
+                                E-mail: cliniquemedicalstpaul@gmail.com<br/>
+                                Muhanga - Shyogwe - Ruli
                             </span>
                         </td>
 					</tr>

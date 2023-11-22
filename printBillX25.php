@@ -418,7 +418,7 @@ if($connected==true AND isset($_SESSION['codeCash']))
 		<table style="width:100%">
 		<tr>
 		<td colspan=2 style="text-align:center;">
-			<span style="text-align:center;background:#333;border-radius:40px;color:#eee;font-weight:400;padding:5px 50px">Powered by <img src="images/petilogo.png" style="width:5%;height:auto;"/> , a product of Ikorere Group Ltd. ©2022-<?php echo date('Y');?>, All Rights Reserved.</span>
+			<span style="text-align:center;background:#333;border-radius:40px;color:#eee;font-weight:400;padding:5px 50px">Powered by  <font>MEDICAL FILE</font> , a product of Innovate Solutions Ltd. ©2022-<?php echo date('Y');?>, All Rights Reserved.</span>
 		</td>
 		</tr>
 	 
@@ -433,9 +433,9 @@ if($connected==true AND isset($_SESSION['codeCash']))
 					<td style="text-align:left;width:80%">
 					  <span style="border-top:none;border-bottom:2px solid #ccc; font-size:110%; font-weight:900"></span>
 						<span style="font-size:90%;">
-                                Phone: (+250) 788404430<br/>
-                                E-mail: clinicumurage@gmail.com<br/>
-                                Muhanga - Nyamabuye - Gahogo
+                                Phone: (+250) 783588794<br/>
+                                E-mail: cliniquemedicalstpaul@gmail.com<br/>
+                                Muhanga - Shyogwe - Ruli
                             </span>
 
 					</td>
@@ -3878,7 +3878,7 @@ $barcode = '
 		
 		<tr>
 			<td colspan=2 style="text-align:center;">
-				<span style="text-align:center;background:#333;border-radius:40px;color:#eee;font-weight:400;padding:5px 50px">Powered by <img src="images/petilogo.png" style="width:5%;height:auto;"/> , a product of Ikorere Group Ltd. ©2022-'.date('Y').', All Rights Reserved.</span>
+				<span style="text-align:center;background:#333;border-radius:40px;color:#eee;font-weight:400;padding:5px 50px">Powered by  <font>MEDICAL FILE</font> , a product of Innovate Solutions Ltd. ©2022-'.date('Y').', All Rights Reserved.</span>
 			</td>
 		</tr>
 	 
@@ -3894,9 +3894,9 @@ $barcode = '
 						<td style="text-align:left;width:80%">
 							<span style="border-top:none;border-bottom:2px solid #ccc; font-size:110%; font-weight:900"></span>
 							<span style="font-size:90%;">
-                                Phone: (+250) 788404430<br/>
-                                E-mail: clinicumurage@gmail.com<br/>
-                                Muhanga - Nyamabuye - Gahogo
+                                Phone: (+250) 783588794<br/>
+                                E-mail: cliniquemedicalstpaul@gmail.com<br/>
+                                Muhanga - Shyogwe - Ruli
                             </span>
 						</td>
 					</tr>
